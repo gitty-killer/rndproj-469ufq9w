@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-469ufq9w"",
-  ""goal"": ""dataset sampler for content moderation"",
-  ""language"": ""go"",
-  ""template"": ""go-service""
+    "name":  "rndproj-469ufq9w",
+    "goal":  "dataset sampler for content moderation",
+    "language":  "go",
+    "template":  "go-service"
 }
